@@ -1,5 +1,5 @@
 # Hi :wave: I am Canberk.
- I am a software developer. 
+ I am a software Engineer. 
  I have an internship experience of about a year. I had the chance to work with many different technologies. I'm looking at new job opportunities right now. :man_technologist: 
 
 
