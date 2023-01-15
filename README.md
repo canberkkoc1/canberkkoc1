@@ -9,6 +9,8 @@
  
  ![](https://komarev.com/ghpvc/?username=canberkkoc1&color=green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canberkkoc1&layout=compact)](https://github.com/canberkkoc1/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canberkkoc1&theme=tokyonight)
+
+
 
 ![snake svg](https://github.com/canberkkoc1/canberkkoc1/blob/output/github-contribution-grid-snake.svg)
