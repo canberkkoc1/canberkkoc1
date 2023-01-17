@@ -9,7 +9,7 @@
  
  ![](https://komarev.com/ghpvc/?username=canberkkoc1&color=green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canberkkoc1&hide=XML,Rich%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/canberkkoc1/github-readme-stats)
+
 
 
 
