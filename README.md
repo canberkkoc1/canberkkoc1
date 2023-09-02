@@ -9,9 +9,3 @@
  
  ![](https://komarev.com/ghpvc/?username=canberkkoc1&color=green)
 
-
-
-
-
-
-![snake svg](https://github.com/canberkkoc1/canberkkoc1/blob/output/github-contribution-grid-snake.svg)
