@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Huawei**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go & NextJS**
 
 - 📫 How to reach me **canberkkoc.dv@gmail.com**
 
